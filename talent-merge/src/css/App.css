@@ -1,0 +1,13 @@
+.hero-section {
+  background-image: url('../assets/home.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: 100vh;
+  border-radius: 20px;
+}
